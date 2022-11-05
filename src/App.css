@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+}
+
+.child{
+    position: absolute;
+}
+
+.vid{
+    top: 20px;
+}
+
+.typ{
+    top: 400px;
+}
